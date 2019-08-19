@@ -64,7 +64,7 @@ def binary_to_ascii_file(filename,newfilename):
   for n in range(0,len(ascii_list)):
       write_file.write(chr(ascii_list[n]))
       
-class dconvert:
+class string_convert:
     def help():
         print("""
         commands:
