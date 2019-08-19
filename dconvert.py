@@ -73,3 +73,4 @@ class dconvert:
         ascii_to_decimal(TEXT) \#converts an ascii string to a decimal string
         decimal_to_ascii(TEXT) \#converts a decimal string to an ascii string
         dconvert.help() displays help
+        """)
